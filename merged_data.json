@@ -1,0 +1,1630 @@
+{
+    "2012QG1-S21": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-S21",
+        "答案": "A",
+        "解析": "问句询问想要哪个，答句说任意一个都行，A选项“我不介意”符合语境；B“我确定”、C“没问题”、D“去吧”均不符。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "— Which one of these do you want?    —        . Either will do.",
+        "选项": [
+            "A. I don’t mind",
+            "B. I’m sure",
+            "C. No problem",
+            "D. Go ahead"
+        ]
+    },
+    "2012QG1-S22": {
+        "四维数据": {
+            "词汇": 0.5,
+            "逻辑": 0.4,
+            "细节": 0.55,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "冠词缺失",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S22",
+        "答案": "C",
+        "解析": "第一空，“finished painting”是特指，用the；第二空，“with satisfaction”是固定短语，不用冠词 。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "Sarah looked at         finished painting with         satisfaction.",
+        "选项": [
+            "A. 不填; a",
+            "B. a; the",
+            "C. the; 不填",
+            "D. the; a"
+        ]
+    },
+    "2012QG1-S23": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.5,
+            "细节": 0.45,
+            "语法": 0.6
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "时态",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S23",
+        "答案": "C",
+        "解析": "“生活就像在雪中行走”是客观事实，从句用一般现在时，A是现在完成时，B是现在进行时，D是一般过去时，均不符。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "\"Life is like walking in the snow\", Granny used to say, \"because every step       .",
+        "选项": [
+            "A. has shown",
+            "B. is showing",
+            "C. shows",
+            "D. showed"
+        ]
+    },
+    "2012QG1-S24": {
+        "四维数据": {
+            "词汇": 0.5,
+            "逻辑": 0.7,
+            "细节": 0.55,
+            "语法": 0.65
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "宾语从句",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-S24",
+        "答案": "D",
+        "解析": "it是形式主语，真正主语从句中do缺少宾语，用what引导。A作方式状语，B表选择，C不充当成分，均错误。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "It is by no means clear         the president can do to end the strike.",
+        "选项": [
+            "A. how",
+            "B. which",
+            "C. that",
+            "D. what"
+        ]
+    },
+    "2012QG1-S25": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.45
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "逻辑衔接",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S25",
+        "答案": "B",
+        "解析": "前句说没见过，后句说看起来面熟，前后是转折关系。A表因果，C引导原因或时间状语从句，D引导条件状语从句，B“尽管”引导让步状语从句，符合。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "I don’t believe we’ve met before,         I must say you do look familiar.",
+        "选项": [
+            "A. therefore",
+            "B. although",
+            "C. since",
+            "D. unless"
+        ]
+    },
+    "2012QG1-S26": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.65,
+            "细节": 0.5,
+            "语法": 0.55
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "比较结构",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S26",
+        "答案": "D",
+        "解析": "“so much the better”是固定表达，意为“那就更好了” ，用于比较，A、B、C形式错误。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "The result is not very important to us, but if we do win, then so much        . ",
+        "选项": [
+            "A. the best",
+            "B. best",
+            "C. better",
+            "D. the better"
+        ]
+    },
+    "2012QG1-S27": {
+        "四维数据": {
+            "词汇": 0.7,
+            "逻辑": 0.5,
+            "细节": 0.45,
+            "语法": 0.4
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "高频词汇",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S27",
+        "答案": "B",
+        "解析": "前句说玛丽擅长记笔记，B选项“put down”有“写下，记下”的意思，符合语境；A“扑灭”，C“收起”，D“组装”，均不符。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "Mary is really good at taking notes in class. She can         almost every word her teacher says.",
+        "选项": [
+            "A. put out",
+            "B. put down",
+            "C. put away",
+            "D. put together"
+        ]
+    },
+    "2012QG1-S28": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.6,
+            "细节": 0.5,
+            "语法": 0.65
+        },
+        "难度系数": 0.6,
+        "区分度": 0.6,
+        "标签": [
+            "非谓语形式",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S28",
+        "答案": "A",
+        "解析": "此处是独立主格结构，weather与permit是主动关系，用现在分词permitting，B是不定式表将来，C是过去分词表被动，D是动词原形，均错误。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "The party will be held in the garden, weather        .",
+        "选项": [
+            "A. permitting",
+            "B. to permit",
+            "C. permitted",
+            "D. permit"
+        ]
+    },
+    "2012QG1-S29": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.5,
+            "细节": 0.55,
+            "语法": 0.6
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "比较结构",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S29",
+        "答案": "A",
+        "解析": "表达倍数时，结构为“倍数+as+形容词/副词原级+as”，所以“half as good as”正确，B、C、D形式错误。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "This restaurant wasn’t         that other restaurant we went to.",
+        "选项": [
+            "A. half as good as",
+            "B. as half good as",
+            "C. as good as half",
+            "D. good as half as"
+        ]
+    },
+    "2012QG1-S30": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.65,
+            "细节": 0.5,
+            "语法": 0.45
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "情态动词",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S30",
+        "答案": "D",
+        "解析": "后句说每天早上六点火车会经过，所以不需要闹钟。A“不能”，B“禁止”，C“不应该”，D“不需要”，D符合语境。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "I         use a clock to wake me up because at six o’clock each morning the train comes by my house.",
+        "选项": [
+            "A. couldn’t",
+            "B. mustn’t",
+            "C. shouldn’t",
+            "D. needn’t"
+        ]
+    },
+    "2012QG1-S31": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-S31",
+        "答案": "C",
+        "解析": "前句说拉里邀请比尔和彼得去野餐，后句说他们有工作要做，所以两个人都不想去。A“两者中的任何一个”，B用于否定句或疑问句指三者及以上，C“两者都不”，D指三者及以上都不，C符合。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "Larry asks Bill and Peter to go on a picnic with him, but         of them wants to, because they have work to do.",
+        "选项": [
+            "A. either",
+            "B. any",
+            "C. neither",
+            "D. none"
+        ]
+    },
+    "2012QG1-S32": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.6,
+            "细节": 0.5,
+            "语法": 0.65
+        },
+        "难度系数": 0.6,
+        "区分度": 0.6,
+        "标签": [
+            "非谓语形式",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S32",
+        "答案": "D",
+        "解析": "film与compare是被动关系，用过去分词短语作状语，A是现在分词完成式的被动，B是现在分词，C是动词原形，均错误。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "Film has a much shorter history, especially when         such art forms as music and painting.",
+        "选项": [
+            "A. having compared to",
+            "B. comparing to",
+            "C. compare to",
+            "D. compared to"
+        ]
+    },
+    "2012QG1-S33": {
+        "四维数据": {
+            "词汇": 0.5,
+            "逻辑": 0.55,
+            "细节": 0.45,
+            "语法": 0.6
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "时态",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S33",
+        "答案": "C",
+        "解析": "前句用过去完成进行时，说整个下午都在做数学题，后句表示当时数字在眼前“游泳”，用一般过去时，A是动词原形，B是过去分词，D是过去完成时，均错误。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "I had been working on math for the whole afternoon and the numbers          before my eyes.",
+        "选项": [
+            "A. swim",
+            "B. swum",
+            "C. swam",
+            "D. had swum"
+        ]
+    },
+    "2012QG1-S34": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "逻辑衔接",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S34",
+        "答案": "B",
+        "解析": "前句说你得让开，后句说卡车就过不去，“or”有“否则”的意思，表转折；A“所以”表因果，C“和”表并列，D“但是”表转折但意思不符，B正确。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "You have to move out of the way         the truck cannot get past you.",
+        "选项": [
+            "A. so",
+            "B. or",
+            "C. and",
+            "D. but"
+        ]
+    },
+    "2012QG1-S35": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.6,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "高频词汇",
+            "语境推断"
+        ],
+        "ID": "2012QG1-S35",
+        "答案": "A",
+        "解析": "前句说如果她不想去，A选项“persuade”意为“说服”，符合语境；B“承诺”，C“邀请”，D“支持”，均不符。",
+        "类型": "S",
+        "年份": 2012,
+        "题干": "If she doesn’t want to go, nothing you can say will         her.",
+        "选项": [
+            "A. persuade",
+            "B. promise",
+            "C. invite",
+            "D. support"
+        ]
+    },
+    "2012QG1-C36": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.55,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C36",
+        "答案": "B",
+        "解析": "前文说肢体语言很强大，“speak louder than words”是习语，意为“事实胜于雄辩” ，这里用louder表示肢体语言比言语更有力，A“更直”，C“更努力”，D“更远”，均不符。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Body language is the quiet, secret and most powerful language of all! It speaks   36   than words.",
+        "选项": [
+            "A. straighter",
+            "B. louder",
+            "C. harder",
+            "D. further"
+        ]
+    },
+    "2012QG1-C37": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.65,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "高频词汇",
+            "语境推断"
+        ],
+        "ID": "2012QG1-C37",
+        "答案": "D",
+        "解析": "根据常识，身体会发出很多信息。A“声音”，B“邀请”，C“感觉”，D“信息”，D符合语境。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "According to specialists, our bodies send out more   37   than we realize.",
+        "选项": [
+            "A. sounds",
+            "B. invitations",
+            "C. feelings",
+            "D. messages"
+        ]
+    },
+    "2012QG1-C38": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.55,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C38",
+        "答案": "D",
+        "解析": "非言语交流占我们真正表达意思的大约50%。A“希望”，B“接收”，C“发现”，D“意味着，表达”，D符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "In fact, non-verbal (非言语) communication takes up about 50% of what we really   38  .",
+        "选项": [
+            "A. hope",
+            "B. receive",
+            "C. discover",
+            "D. mean"
+        ]
+    },
+    "2012QG1-C39": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C39",
+        "答案": "C",
+        "解析": "当跨文化交流时，肢体语言尤为重要。A“立即的”，B“误导性的”，C“重要的”，D“困难的”，C符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "And body language is particularly   39   when we attempt to communicate across cultures.",
+        "选项": [
+            "A. immediate",
+            "B. misleading",
+            "C. important",
+            "D. difficult"
+        ]
+    },
+    "2012QG1-C40": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.65,
+            "细节": 0.5,
+            "语法": 0.45
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C40",
+        "答案": "C",
+        "解析": "肢体语言是我们生活中如此重要的一部分，以至于常常被忽视。“so much a part of...”表示“是……如此重要的一部分”，A、B、D搭配不当。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Indeed, what is called body language is so   40   a part of us that it’s actually often unnoticed.",
+        "选项": [
+            "A. well",
+            "B. far",
+            "C. much",
+            "D. long"
+        ]
+    },
+    "2012QG1-C41": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.8,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.8,
+        "标签": [
+            "逻辑衔接",
+            "语境推断"
+        ],
+        "ID": "2012QG1-C41",
+        "答案": "A",
+        "解析": "前文说肢体语言会导致误解，后文举例不同社会对人与人之间距离的不同对待，A“例如”，B“因此”，C“然而”，D“总之”，A符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "And misunderstandings occur as a result of it.   41  , different societies treat the   42   between people differently.",
+        "选项": [
+            "A. For example",
+            "B. Thus",
+            "C. However",
+            "D. In short"
+        ]
+    },
+    "2012QG1-C42": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.55,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C42",
+        "答案": "B",
+        "解析": "不同社会对待人与人之间的距离不同，A“贸易”，B“距离”，C“联系”，D“问候”，B符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": " different societies treat the   42   between people differently.",
+        "选项": [
+            "A. trade",
+            "B. distance",
+            "C. connection",
+            "D. greetings"
+        ]
+    },
+    "2012QG1-C43": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C43",
+        "答案": "C",
+        "解析": "北欧人通常不喜欢有身体接触，A“眼神”，B“言语的”，C“身体的”，D“电话”，C符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Northern Europeans usually do not like having   43   contact (接触) even with friends, and certainly not with   44  .",
+        "选项": [
+            "A. eye",
+            "B. verbal",
+            "C. bodily",
+            "D. telephone"
+        ]
+    },
+    "2012QG1-C44": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C44",
+        "答案": "A",
+        "解析": "北欧人不喜欢和朋友有身体接触，更不喜欢和陌生人有接触，A“陌生人”，B“亲戚”，C“邻居”，D“敌人”，A符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Northern Europeans usually do not like having   43   contact (接触) even with friends, and certainly not with   44  .",
+        "选项": [
+            "A. strangers",
+            "B. relatives",
+            "C. neighbours",
+            "D. enemies"
+        ]
+    },
+    "2012QG1-C45": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "逻辑衔接",
+            "语境推断"
+        ],
+        "ID": "2012QG1-C45",
+        "答案": "B",
+        "解析": "前文说北欧人不喜欢身体接触，此处说拉丁美洲国家的人经常互相接触，是对比，B“另一方面”，A表达错误，C“以类似的方式”，D“务必”，B正确。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "People from Latin American countries,   45  , touch each other quite a lot.",
+        "选项": [
+            "A. in other word",
+            "B. on the other hand",
+            "C. in a similar way",
+            "D. by all means"
+        ]
+    },
+    "2012QG1-C46": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.55,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C46",
+        "答案": "B",
+        "解析": "在交谈中，可能会出现拉丁美洲人追着挪威人满屋子跑的情况，A“麻烦”，B“交谈”，C“沉默”，D“实验”，B符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Therefore, it’s possible that in   46  , it may look like a Latino is   47   a Norwegian all over the room.",
+        "选项": [
+            "A. trouble",
+            "B. conversation",
+            "C. silence",
+            "D. experiment"
+        ]
+    },
+    "2012QG1-C47": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C47",
+        "答案": "D",
+        "解析": "拉丁美洲人想表达友好会靠近，看起来像是在追着挪威人，A“打扰”，B“帮助”，C“引导”，D“跟随，追着”，D符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Therefore, it’s possible that in   46  , it may look like a Latino is   47   a Norwegian all over the room.",
+        "选项": [
+            "A. disturbing",
+            "B. helping",
+            "C. guiding",
+            "D. following"
+        ]
+    },
+    "2012QG1-C48": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C48",
+        "答案": "A",
+        "解析": "拉丁美洲人想表达友谊会不断靠近，A“更近”，B“更快”，C“在里面”，D“离开”，A符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "The Latino, trying to express friendship, will keep moving   48  .",
+        "选项": [
+            "A. closer",
+            "B. faster",
+            "C. in",
+            "D. away"
+        ]
+    },
+    "2012QG1-C49": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C49",
+        "答案": "C",
+        "解析": "挪威人觉得拉丁美洲人太莽撞，会不断后退，A“向前走”，B“继续”，C“后退”，D“出来”，C符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "The Norwegian, very probably seeing this as pushiness, will keep   49   — which the Latino will in return regard as   50  .",
+        "选项": [
+            "A. stepping forward",
+            "B. going on",
+            "C. backing away",
+            "D. coming out"
+        ]
+    },
+    "2012QG1-C50": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C50",
+        "答案": "D",
+        "解析": "拉丁美洲人会把挪威人的后退视为冷漠，A“弱点”，B“粗心”，C“友好”，D“冷漠”，D符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "The Norwegian, very probably seeing this as pushiness, will keep   49   — which the Latino will in return regard as   50  .",
+        "选项": [
+            "A. weakness",
+            "B. carelessness",
+            "C. friendliness",
+            "D. coldness"
+        ]
+    },
+    "2012QG1-C51": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.55,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C51",
+        "答案": "A",
+        "解析": "当人们交谈时，会发生很多事情，结合上文主要讲交流中的肢体语言，A“交谈”，B“旅行”，C“笑”，D“思考”，A符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "Clearly, a great deal is going on when people   51  .",
+        "选项": [
+            "A. talk",
+            "B. travel",
+            "C. laugh",
+            "D. think"
+        ]
+    },
+    "2012QG1-C52": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C52",
+        "答案": "A",
+        "解析": "当双方来自不同文化时，很有可能产生误解，A“不同的”，B“欧洲的”，C“拉丁美洲的”，D“富有的”，A符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "And when parties are from   52   cultures, there’s a strong possibility of   53  .",
+        "选项": [
+            "A. different",
+            "B. European",
+            "C. Latino",
+            "D. rich"
+        ]
+    },
+    "2012QG1-C53": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C53",
+        "答案": "C",
+        "解析": "不同文化的人交流，容易产生误解，A“好奇”，B“兴奋”，C“误解”，D“紧张”，C符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "And when parties are from   52   cultures, there’s a strong possibility of   53  .",
+        "选项": [
+            "A. curiosity",
+            "B. excitement",
+            "C. misunderstanding",
+            "D. nervousness"
+        ]
+    },
+    "2012QG1-C54": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C54",
+        "答案": "D",
+        "解析": "最好的建议是遵守黄金法则，A“机会”，B“时间”，C“结果”，D“建议”，D符合。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "But whatever the situation, the best   54   is to obey the Golden Rule: treat others as you would like to be   55  .",
+        "选项": [
+            "A. chance",
+            "B. time",
+            "C. result",
+            "D. advice"
+        ]
+    },
+    "2012QG1-C55": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.6,
+        "标签": [
+            "语境推断",
+            "逻辑衔接"
+        ],
+        "ID": "2012QG1-C55",
+        "答案": "B",
+        "解析": "“treat others as you would like to be treated”表示“己所不欲，勿施于人”，A“注意到”，C“尊重”，D“使高兴”，B“对待”，B正确。",
+        "类型": "C",
+        "年份": 2012,
+        "题干": "But whatever the situation, the best   54   is to obey the Golden Rule: treat others as you would like to be   55  .",
+        "选项": [
+            "A. noticed",
+            "B. treated",
+            "C. respected",
+            "D. pleased"
+        ]
+    },
+    "2012QG1-R56": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.6,
+            "细节": 0.7,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R56",
+        "答案": "C",
+        "解析": "对宇宙感兴趣，自然历史博物馆更符合，A是青年剧院，B是艺术博物馆，D是动手科学博物馆，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "If a child is interested in the universe, he probably will visit _______.",
+        "选项": [
+            "A. a Youtheater",
+            "B. an art museum",
+            "C. a natural history museum",
+            "D. a hands-on science museum"
+        ]
+    },
+    "2012QG1-R57": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.6,
+            "细节": 0.7,
+            "语法": 0.4
+        },
+        "难度系数": 0.55,
+        "区分度": 0.55,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R57",
+        "答案": "D",
+        "解析": "在青年剧院，孩子们可以表演，A是看岩石收藏，B是看恐龙模型，C是观看木偶制作，均不符合。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What can kids do at a Youtheater?",
+        "选项": [
+            "A. Look at rock collections.",
+            "B. See dinosaur models.",
+            "C. Watch puppet making.",
+            "D. Give performances."
+        ]
+    },
+    "2012QG1-R58": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.65,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.6,
+        "标签": [
+            "词义猜测",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R58",
+        "答案": "B",
+        "解析": "“hands-on science”意思是通过动手做事情来学习科学，A是孩子设计的科学游戏，C是孩子科学作品展示，D是读科学书，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What does “hands-on science” mean in the last paragraph?",
+        "选项": [
+            "A. Science games designed by kids.",
+            "B. Learning science by doing things.",
+            "C. A show of kids’ science work",
+            "D. Reading science books."
+        ]
+    },
+    "2012QG1-R59": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "主旨归纳",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R59",
+        "答案": "C",
+        "解析": "文章介绍了不同类型的博物馆，所以可能来自博物馆指南，A是科学教科书，B是旅游地图，D是新闻报道，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "Where does this text probably come from?",
+        "选项": [
+            "A. A science textbook.",
+            "B. A tourist map.",
+            "C. A museum guide.",
+            "D. A news report."
+        ]
+    },
+    "2012QG1-R60": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.65,
+            "细节": 0.7,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.6,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R60",
+        "答案": "B",
+        "解析": "野生蜂巢难找是因为藏在树上，A说尺寸小，C说覆盖着蜡，D说难以识别，均未提及。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "Why is it difficult to find a wild bees’ nest?",
+        "选项": [
+            "A. It’s small in size.",
+            "B. It’s hidden in trees.",
+            "C. It’s covered with wax.",
+            "D. It’s hard to recognize."
+        ]
+    },
+    "2012QG1-R61": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.65,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "指代关系",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R61",
+        "答案": "C",
+        "解析": "“the follower”指跟随蜂蜜向导找蜂巢的人，即找蜂蜜的人，A是蜜蜂，B是鸟，D是养蜂人，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What do the words “the follower” in Paragraph 2 refer to?",
+        "选项": [
+            "A. A bee.",
+            "B. A bird.",
+            "C. A honey seeker.",
+            "D. A beekeeper."
+        ]
+    },
+    "2012QG1-R62": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R62",
+        "答案": "A",
+        "解析": "蜂蜜向导的特殊之处在于获取食物的方式，它引导找蜂蜜的人找到蜂巢获取食物，B“去教堂”，C“在森林唱歌”，D“伸进蜂巢”，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "The honey guide is special in the way _______.",
+        "选项": [
+            "A. it gets its food",
+            "B. it goes to church",
+            "C. it sings in the forest",
+            "D. it reaches into bees’ nests"
+        ]
+    },
+    "2012QG1-R63": {
+        "四维数据": {
+            "词汇": 0.7,
+            "逻辑": 0.8,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.7,
+        "区分度": 0.8,
+        "标签": [
+            "主旨归纳",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R63",
+        "答案": "D",
+        "解析": "文章主要讲蜂蜜向导帮助找蜂蜜的人找蜂巢，D“蜂蜜爱好者的帮手”符合主旨，A“野生蜜蜂”，B“蜡和蜂蜜”，C“非洲养蜂”，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What can be the best title for the text?",
+        "选项": [
+            "A. Wild Bees",
+            "B. Wax and Honey",
+            "C. Beekeeping in Africa",
+            "D. Honey-Lover’s Helper"
+        ]
+    },
+    "2012QG1-R64": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.65,
+            "细节": 0.7,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.6,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R64",
+        "答案": "C",
+        "解析": "从文章内容可知作者参与群众演员的工作，是群众演员，A是摄影师，B是电影导演，D是场景布置工人，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "Who is the author?",
+        "选项": [
+            "A. A cameraman.",
+            "B. A film director.",
+            "C. A crowd-scene actor.",
+            "D. A workman for scene setting."
+        ]
+    },
+    "2012QG1-R65": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.65,
+            "细节": 0.7,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.6,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R65",
+        "答案": "B",
+        "解析": "人造雪景让作者感觉冷，A说大雪，C说低温，D说正在放映的电影，均未提及。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What made the author feel cold?",
+        "选项": [
+            "A. The heavy snowfall.",
+            "B. The man-made scene.",
+            "C. The low temperature.",
+            "D. The film being shown."
+        ]
+    },
+    "2012QG1-R66": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.65,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "推理判断",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R66",
+        "答案": "A",
+        "解析": "最后一段提到的“三分钟”内会拍摄新场景，B说更多明星表演，C说作者离开摄影棚，D说准备下一场景，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What would happen in the “three minutes” mentioned in the last paragraph?",
+        "选项": [
+            "A. A new scene would be filmed.",
+            "B. More stars would act in the film.",
+            "C. The author would leave the studio.",
+            "D. The next scene would be prepared."
+        ]
+    },
+    "2012QG1-R67": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.65,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "主旨归纳",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R67",
+        "答案": "C",
+        "解析": "第一段指出诗歌朗读有助于孩子学习单词，A说人们记得童年所学，B说孩子记忆力比成年人好，D说儿童故事容易记住，均不是主旨。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What is the main idea of Paragraph 1?",
+        "选项": [
+            "A. People remember well what they learned in childhood.",
+            "B. Children have a better memory than grown-ups.",
+            "C. Poem reading is a good way to learn words.",
+            "D. Stories for children are easy to remember."
+        ]
+    },
+    "2012QG1-R68": {
+        "四维数据": {
+            "词汇": 0.65,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "论证方式",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R68",
+        "答案": "D",
+        "解析": "作者通过乘法表等例子解释过度学习法则，A是呈现研究结果，B是制定一般规则，C是作比较，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "The author explains the law of overlearning by _______.",
+        "选项": [
+            "A. presenting research findings",
+            "B. setting down general rules",
+            "C. making a comparison",
+            "D. using examples"
+        ]
+    },
+    "2012QG1-R69": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.7,
+            "细节": 0.65,
+            "语法": 0.4
+        },
+        "难度系数": 0.6,
+        "区分度": 0.65,
+        "标签": [
+            "细节定位",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R69",
+        "答案": "A",
+        "解析": "能够使用乘法表是过度学习的结果，B说死记硬背的特殊情况，C说处理数学问题的技能，D说高级学习的基本步骤，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "According to the author, being able to use multiplication tables is _______.",
+        "选项": [
+            "A. a result of overlearning",
+            "B. a special case of cramming",
+            "C. a skill to deal with math problems",
+            "D. a basic step towards advanced studies"
+        ]
+    },
+    "2012QG1-R70": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "态度推理",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R70",
+        "答案": "B",
+        "解析": "作者认为死记硬背的帮助有限，A说导致大学考试失败，C说可能导致记忆力差，D说增加学习兴趣，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "What is the author’s opinion on cramming?",
+        "选项": [
+            "A. It leads to failure in college exams.",
+            "B. It’s helpful only in a limited way.",
+            "C. It’s possible to result in poor memory.",
+            "D. It increases students’ learning interest."
+        ]
+    },
+    "2012QG1-R71": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "七选五逻辑链",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R71",
+        "答案": "C",
+        "解析": "后文提到不同应对压力的方式，C“不同的人感受压力的方式不同”符合语境，引出下文。A“寻求帮助度过难关”，B“注意朋友感受并帮助他们”，D“压力消失感觉很好”，E“弄清楚问题所在”，F“别忘了朋友”，G“找方法冷静下来”，均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "Everybody gets stressed time to time. 71 Some ways of dealing with stress --- like screaming or hitting someone --- don’t solve (解决) much. But other ways, like talking to someone you trust, can lead you to solving your problem or at least feeling better. 选择合适的句子填入 71 处",
+        "选项": [
+            "A. Ask for a helping hand to get you through the tough situation.",
+            "B. Notice your friends’ feelings and find a way to help them.",
+            "C. Different people feel stress in different ways.",
+            "D. Ah, it feels so good when the stress is gone.",
+            "E. You need to figure out what the problem is.",
+            "F. And don’t forget about your friends.",
+            "G. Then, find a way to calm down."
+        ]
+    },
+    "2012QG1-R72": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "七选五逻辑链",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R72",
+        "答案": "F",
+        "解析": "前文说向关心你的人求助，提到了成年人和亲戚，F“别忘了朋友”符合语境，继续补充可以求助的对象。A、B、D、E、G均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "When you need help, reach out to the people who care about you. Talk to a trusted adult, such as a parent or other relatives. 72 They might have had similar problems, such as dealing with a test, or the death of a beloved pet. 选择合适的句子填入 72 处",
+        "选项": [
+            "A. Ask for a helping hand to get you through the tough situation.",
+            "B. Notice your friends’ feelings and find a way to help them.",
+            "C. Different people feel stress in different ways.",
+            "D. Ah, it feels so good when the stress is gone.",
+            "E. You need to figure out what the problem is.",
+            "F. And don’t forget about your friends.",
+            "G. Then, find a way to calm down."
+        ]
+    },
+    "2012QG1-R73": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "七选五逻辑链",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R73",
+        "答案": "A",
+        "解析": "前文说不要把压力发泄在自己身上，A“寻求帮助度过难关”符合语境，提醒有困难找别人帮忙。B、D、E、F、G均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "Sometimes when kids are stressed and upset they take it out on themselves. Oh, dear, that’s not a good idea. Remember that there are always people to help you. Don’t take it out on yourself. 73 选择合适的句子填入 73 处",
+        "选项": [
+            "A. Ask for a helping hand to get you through the tough situation.",
+            "B. Notice your friends’ feelings and find a way to help them.",
+            "C. Different people feel stress in different ways.",
+            "D. Ah, it feels so good when the stress is gone.",
+            "E. You need to figure out what the problem is.",
+            "F. And don’t forget about your friends.",
+            "G. Then, find a way to calm down."
+        ]
+    },
+    "2012QG1-R74": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "七选五逻辑链",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R74",
+        "答案": "E",
+        "解析": "冷静并获得支持后，要着手解决问题，E“弄清楚问题所在”符合语境，是解决问题的第一步。A、B、D、F、G均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "After you’re calm and you have support from adults and friends, it’s time to get down to business. 74 Even if you can’t solve it all, you can solve a piece of it. 选择合适的句子填入 74 处",
+        "选项": [
+            "A. Ask for a helping hand to get you through the tough situation.",
+            "B. Notice your friends’ feelings and find a way to help them.",
+            "C. Different people feel stress in different ways.",
+            "D. Ah, it feels so good when the stress is gone.",
+            "E. You need to figure out what the problem is.",
+            "F. And don’t forget about your friends.",
+            "G. Then, find a way to calm down."
+        ]
+    },
+    "2012QG1-R75": {
+        "四维数据": {
+            "词汇": 0.6,
+            "逻辑": 0.75,
+            "细节": 0.6,
+            "语法": 0.4
+        },
+        "难度系数": 0.65,
+        "区分度": 0.7,
+        "标签": [
+            "七选五逻辑链",
+            "语境推断"
+        ],
+        "ID": "2012QG1-R75",
+        "答案": "D",
+        "解析": "前文说压力会消失，D“压力消失感觉很好”符合语境，呼应前文。A、B、E、F、G均不符。",
+        "类型": "R",
+        "年份": 2012,
+        "题干": "Most stress is temporary (暂时的). Remember stress does go away, especially when you figure out the problem and start working on solving it. These steps aren’t magic, but they do work. And if you can stay positive as you you’re your way through a tough time, you’ll help yourself feel better even faster. 75 选择合适的句子填入 75 处",
+        "选项": [
+            "A. Ask for a helping hand to get you through the tough situation.",
+            "B. Notice your friends’ feelings and find a way to help them.",
+            "C. Different people feel stress in different ways.",
+            "D. Ah, it feels so good when the stress is gone.",
+            "E. You need to figure out what the problem is.",
+            "F. And don’t forget about your friends.",
+            "G. Then, find a way to calm down."
+        ]
+    },
+    "2012QG1-F1": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.5,
+            "细节": 0.55,
+            "语法": 0.65
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "形容词副词混淆",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F1",
+        "答案": "将little改为less",
+        "解析": "and连接两个并列的比较级，与more patient并列，用less aggressive表示“少一些攻击性” 。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "I learned early in life that I had to be more patient and little aggressive. 找出该句中的错误并改正"
+    },
+    "2012QG1-F2": {
+        "四维数据": {
+            "词汇": 0.5,
+            "逻辑": 0.45,
+            "细节": 0.6,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "名词单复数",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F2",
+        "答案": "将toy改为toys",
+        "解析": "each of后接可数名词复数形式，表示“……中的每一个”，所以用toys。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "From the time I was about four until I was about six, I destroyed each of my toy. 找出该句中的错误并改正"
+    },
+    "2012QG1-F3": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.5,
+            "细节": 0.55,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "代词指代",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F3",
+        "答案": "将 did 改为 went，将 it 改为 them",
+        "解析": "“go wrong” 是固定短语，意为 “出故障”；broke 的宾语指代前面的 toys，应用复数 them，而不是单数 it。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "I was happy when the toys worked, but when things did wrong, I got angry and broke it. 找出该句中的错误并改正"
+    },
+    "2012QG1-F4": {
+        "四维数据": {
+            "词汇": 0.5,
+            "逻辑": 0.45,
+            "细节": 0.55,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "冠词缺失",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F4",
+        "答案": "在 parents 前加 my",
+        "解析": "此处缺少限定词，根据语境可知是 “我的父母” 给我买新玩具，所以要加上 my。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "For a while parents bought me new toys. 找出该句中的错误并改正"
+    },
+    "2012QG1-F5": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.55,
+            "细节": 0.55,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "宾语从句引导词",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F5",
+        "答案": "将 which 改为 what",
+        "解析": "see 后面的宾语从句中缺少主语，which 在宾语从句中有选择含义，此处无选择意思，用 what 引导宾语从句，表示 “所…… 的事情” 。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "But before long they began to see which was happening. 找出该句中的错误并改正"
+    },
+    "2012QG1-F6": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.55,
+            "细节": 0.55,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "时态错误",
+            "介词搭配",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F6",
+        "答案": "将 tear 改为 tore",
+        "解析": "根据语境，父亲说话是过去的动作，when 引导的时间状语从句动作也发生在过去，应用一般过去时，所以 tear 要改为 tore。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "When I tear apart my fifth birthday toy train, my father said, “That’s it. No more toys to you.” 找出该句中的错误并改正"
+    },
+    "2012QG1-F7": {
+        "四维数据": {
+            "词汇": 0.55,
+            "逻辑": 0.55,
+            "细节": 0.55,
+            "语法": 0.7
+        },
+        "难度系数": 0.5,
+        "区分度": 0.5,
+        "标签": [
+            "情态动词",
+            "非谓语形式",
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F7",
+        "答案": "将 must 改为 could/might，去掉 to",
+        "解析": "此处表示 “有更多耐心就能让玩具更持久”，表示一种能力或可能性，用 could/might；make sb./sth. do sth. 是固定结构，所以要去掉 to。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "My punishment lasted a year. Meanwhile, I found out that with more patience I must make my toys to last. 找出该句中的错误并改正"
+    },
+    "2012QG1-F8": {
+        "四维数据": {
+            "词汇": 0.4,
+            "逻辑": 0.4,
+            "细节": 0.5,
+            "语法": 0.4
+        },
+        "难度系数": 0.3,
+        "区分度": 0.2,
+        "标签": [
+            "语法错误判断"
+        ],
+        "ID": "2012QG1-F8",
+        "答案": "正确",
+        "解析": "此句语法、语义均正确，句子结构完整，表达清晰，所以该说法正确。",
+        "类型": "F",
+        "年份": 2012,
+        "题干": "My attitude changed from then on.（该句无错误，判断此说法是否正确）"
+    },
+    "2012QG1-W1": {
+        "四维数据": {
+            "词汇": 0.7,
+            "逻辑": 0.75,
+            "细节": 0.7,
+            "语法": 0.7
+        },
+        "难度系数": 0.7,
+        "区分度": 0.7,
+        "标签": [
+            "结构连贯",
+            "内容充实",
+            "语法准确性",
+            "语言得体"
+        ],
+        "ID": "2012QG1-W1",
+        "答案": "Dear Sir/Madam,|I'm Li Hua, a middle school student from China. I'm outgoing and enthusiastic. I have a good command of English and can communicate fluently with others in English.|I'm eager to participate in this summer camp. I hope to introduce China to students from other countries, sharing our rich culture, long history and amazing traditions. Also, I'm looking forward to learning about different cultures and making friends with students around the world.|I sincerely hope I can be accepted. Thank you!|Best regards,|Li Hua",
+        "解析": "首先，根据题目要求，在邮件开头进行自我介绍，表明自己是来自中国的中学生，介绍性格特点以及英语能力，让对方对自己有初步了解。接着，阐述参加意图，从介绍中国和了解其他国家两个方面展开，体现出参加夏令营的意义和价值。最后，表达希望获准的愿望，语言礼貌、诚恳。整体内容符合题目要点，语言表达较为流畅自然，且词数在 100 左右，满足题目要求。",
+        "类型": "W",
+        "年份": 2012,
+        "题干": "假定你是李华，从互联网上得知一个国际中学生组织将在新加坡（Singapore）举办夏令营，欢迎各国学生参加。请写一封电子邮件申请参加。内容主要包括：1. 自我介绍（包括英语能力）；2. 参加意图（介绍中国、了解其他国家）；3. 希望获准。注意：1. 词数 100 左右；2. 可以适当增加细节，以使行文连贯；3. 邮件开头和结尾已为你写好。请根据要求完成作文"
+    }
+}
